@@ -10,4 +10,6 @@ Formation Software Factory Starter
 -git status
 -git push
 -git pull
+-git branch nomdelabranche
+-git checkout nomdelabranche
 ```
