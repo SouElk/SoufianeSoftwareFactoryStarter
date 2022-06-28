@@ -2,7 +2,7 @@
 Formation Software Factory Starter
 
 
-# Top 5 des commandes git
+# Top 8 des commandes git
 ```
 -git clone 
 -git add .
