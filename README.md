@@ -16,9 +16,18 @@ Formation Software Factory Starter
 ```
 
 # Top 5 des commandes maven
+```
 -mvn compile ou bien mvn clean compile
 -mvn test ou bien mvn clean test
 -mvn package
 -mvn verify
 -mvn install
 -mvn deploy
+```
+
+# Deployer avec maven et java
+```
+-mvn clean package 
+ cd target 
+ java -jar nomprojet.jar
+```
