@@ -12,4 +12,5 @@ Formation Software Factory Starter
 -git pull
 -git branch nomdelabranche
 -git checkout nomdelabranche
+-git pull -u token nomdelabranche
 ```
