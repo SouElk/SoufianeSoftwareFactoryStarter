@@ -14,3 +14,11 @@ Formation Software Factory Starter
 -git checkout nomdelabranche
 -git pull -u token nomdelabranche
 ```
+
+# Top 5 des commandes maven
+-mvn compile ou bien mvn clean compile
+-mvn test ou bien mvn clean test
+-mvn package
+-mvn verify
+-mvn install
+-mvn deploy
